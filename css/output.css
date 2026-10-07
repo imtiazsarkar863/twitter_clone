@@ -791,10 +791,6 @@ video {
   border-right-width: 0px;
 }
 
-.border-r-8 {
-  border-right-width: 8px;
-}
-
 .border-x-gray-600 {
   --tw-border-opacity: 1;
   border-left-color: rgb(75 85 99 / var(--tw-border-opacity));
